@@ -1,0 +1,252 @@
+.noire{ 
+background-color:#04F655 /*mettre le fond en bleu*/
+}
+
+     
+
+.texte{
+color: red /*mettre le texte en rouge*/
+}
+
+
+
+
+.texte{
+font-style: italic  /*mettre le texte en italic*/
+}
+
+
+
+
+.texte{
+font-weight:bold  /*mettre le texte en gras*/	
+}
+
+
+
+
+.{
+color:red:;
+text-decoration: underline; /*soulinger le texte*/
+}
+
+
+
+
+
+
+ .texte{
+text-decoration:overline;/*mettre une ligne pardesu*/	
+}
+
+.noire{
+color: white;
+  text-align: center /*centré le texte*/
+}
+
+
+
+.{
+text-decoration:line-through;/*barrer le texte*/
+}
+
+
+
+
+{ 	
+float:left;/*mettre le texte a coter de limage*/
+}
+
+
+body{
+background-image:url(http://personal.psu.edu/hvy5070/Nature.jpeg);/*mettr unr image de fonds*/
+background-attachment:fixed;/*fixed limage*/																																												
+background-repeat: no-repeat;/*ne pa eperter limage*/
+}
+
+
+
+.noire{
+border: 3px blue inset; /*mettre les bordu en bleu */
+border-radius: 40px/50px;/*mettre les bordu arrondu*/
+}
+
+.noire{
+text-shadow: 6px 6px 6px black;	/*mettre des ombre sur les lettre*/
+}
+
+.lien:visited{
+color: #fff;
+}
+
+
+
+.lien:hover
+{
+color: green;/*quand tu touche sa change de couler(grenn)*/
+}
+
+
+
+.noire{
+ width: px ;  /*largeure*/
+ height:40px ;   /*hauteur*/
+}
+
+
+{
+	min-width:   ;/*minimale largeur*/
+	max-width:   ;/*maximale largeur*/
+   min-height:   ; /*minimale hauteur*/
+	max-width:   ;/*maximale hauteur*/  
+} 
+
+{
+overflow:scroll;/*fair un menu deroulant*/
+ }
+
+{
+text-align: justify;/*jsp*/
+
+
+..texte{
+border: 5px solid black;/*mettre des bordu*/
+}
+
+
+
+.texte{
+ position: absolute;
+    right: 0px;
+    bottom: 0px;
+    z-index: 1;
+    border: 5px solid black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
